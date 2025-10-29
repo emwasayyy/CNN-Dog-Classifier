@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 # Define the path to the saved model
-model_path = '/content/drive/MyDrive/CNN classification/dogClassifierCNNModel.h5'
+model_path = 'dogClassifierCNNModel.h5'
 
 # Load the trained model
 try:
